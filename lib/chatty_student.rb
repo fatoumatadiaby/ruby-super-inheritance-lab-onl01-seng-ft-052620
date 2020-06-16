@@ -9,6 +9,11 @@ class ChattyStudent < Student
    super
    super
    super
+   super
+   super
+   super
+   super
+   super
  end
 
 end 
